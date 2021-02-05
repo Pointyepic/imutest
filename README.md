@@ -1,2 +1,2 @@
-# imutest
-Inertial Measurement Unit
+# Inertial Measurement Unit
+Upload this code to the arduino
