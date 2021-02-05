@@ -1,2 +1,2 @@
 # Inertial Measurement Unit
-Upload this code to the arduino
+Code for IMU (written in Arduino IDE, in C language)
